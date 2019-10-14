@@ -1,3 +1,7 @@
 body {
   background-color: antiquewhite;
 }
+
+ul .experience {
+  list-style-type:none; 
+}
