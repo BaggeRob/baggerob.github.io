@@ -1,0 +1,12 @@
+body {
+  background-color: antiquewhite;
+}
+
+div.content {
+  text-align: center;
+}
+
+div.experience ul {
+  list-style-type: none;
+  padding-inline-start: 0;
+}
