@@ -2,10 +2,11 @@ body {
   background-color: antiquewhite;
 }
 
-div .content {
+.content {
   text-align: center;
 }
 
-ul .experience {
-  list-style-type:none; 
+.experience {
+  list-style-type: none;
+  padding-inline-start: 0;
 }
