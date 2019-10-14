@@ -2,6 +2,10 @@ body {
   background-color: antiquewhite;
 }
 
+div .content {
+  text-align: center;
+}
+
 ul .experience {
   list-style-type:none; 
 }
