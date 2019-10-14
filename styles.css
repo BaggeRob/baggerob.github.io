@@ -7,6 +7,6 @@ div.content {
 }
 
 div.experience ul {
-  display: inline-block;
   list-style-type: none;
+  margin-inline-start: 0;
 }
