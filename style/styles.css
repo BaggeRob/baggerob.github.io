@@ -19,12 +19,11 @@ h1 {
 }
 
 li {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 a {
-  font-family: 'Roboto', sans-serif;
-  font-style: 'norma';
+  font-family: 'Montserrat', sans-serif;
   color: red;
   text-decoration: none;
 }
